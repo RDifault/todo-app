@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://rdifault.github.io/todo-app/))
+- Live Site URL: [Todo App]([https://your-live-site-url.com](https://rdifault.github.io/todo-app/))
 
 ## My process
 
